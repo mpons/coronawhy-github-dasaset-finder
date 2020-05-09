@@ -1,0 +1,11 @@
+name: coronawhy-github-dataset-finder
+channels:
+- defaults
+dependencies:
+- python=3.6.4
+- pip:
+  - pandas >= 0.23.2
+  - simplejson>=3.16.0
+  - jupyter==1.0.0
+  - PyGithub==1.50
+  - https://github.com/aussda/pyDataverse/archive/master.zip
