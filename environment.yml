@@ -8,4 +8,4 @@ dependencies:
   - simplejson>=3.16.0
   - jupyter==1.0.0
   - PyGithub==1.50
-  - https://github.com/aussda/pyDataverse/archive/master.zip
+  - https://github.com/aussda/pyDataverse/archive/develop.zip
